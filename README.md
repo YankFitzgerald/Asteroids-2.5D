@@ -1,7 +1,7 @@
 <p align="center">
 <img src="figures/titel.png"/>
 </p>
-This is a 2.5D version of the classic game Asteroid, developed with Unity.
+This is a 2.5D version of the classic game Asteroids, developed with Unity.
 
 ## Features
 - **Interactive Gameplay:** Engage with keyboard controls to fly and shoot, enhancing player interaction.
@@ -34,4 +34,4 @@ Loose and Win
 
 ## Run the game
 Go to [release](https://github.com/YankFitzgerald/Asteroids-2.5D/releases/tag/v1.0).
-Download and unzip, double click Asteroid.exe to play.
+Download and unzip, double click Asteroids.exe to play.
