@@ -1,9 +1,6 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/YankFitzgerald/ImgHub2/main/202311220037564.png" style="zoom:70%;" />
+<img src="figures/titel.png"/>
 </p>
-
-![image-20231227003500480](C:\Users\yankf\Desktop\New folder\Asteroids-2.5D\assets\image-20231227003500480.png)
-
 This is a 2.5D version of the classic game Asteroid, developed with Unity.
 
 ## Features
@@ -13,13 +10,21 @@ This is a 2.5D version of the classic game Asteroid, developed with Unity.
 - **Engaging Levels:** Three levels of increasing difficulty.
 
 ## Screenshots
+Bullet Time
+<table>
+<tr>
+    <td><img src="figures/4.png" alt="4" width="200px" /></td>
+    <td><img src="figures/5.png" alt="5" width="200px" /></td>
+</tr>
+</table>
 
-| ![4](C:\Users\yankf\Desktop\New folder\Asteroids-2.5D\assets\4.png) | ![5](C:\Users\yankf\Desktop\New folder\Asteroids-2.5D\assets\5.png) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-
-| ![2](file://C:\Users\yankf\Desktop\New%20folder\Asteroids-2.5D\assets\2.png?lastModify=1703637187) | ![3](file://C:\Users\yankf\Desktop\New%20folder\Asteroids-2.5D\assets\3.png?lastModify=1703637187) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                                                              |                                                              |
+Loose and Win
+<table>
+<tr>
+    <td><img src="figures/2.png" alt="loose" width="350px" /></td>
+    <td><img src="figures/3.png" alt="win" width="350px" /></td>
+</tr>
+</table>
 
 ## How to Play
 1. Use arrow keys to navigate your spaceship.
